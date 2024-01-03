@@ -1,6 +1,6 @@
-.avatar{
-  width: calc(3rem);
-  height: calc(3rem);
+.avatar {
+  width: 3rem;
+  height: 3rem;
   border-radius: 8px;
 }
 
